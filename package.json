@@ -16,7 +16,7 @@
     "vue": "^3.2.13"
   },
   "engines": {
-    "node": ">=12 <=17"
+    "node": "24.x"
   },
   "devDependencies": {
     "@achrinza/node-ipc": "^10.1.11",
